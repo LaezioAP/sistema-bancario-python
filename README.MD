@@ -2,7 +2,7 @@
 
 Este repositório contém um projeto de sistema bancário desenvolvido em Python, criado com o objetivo de praticar e evoluir conhecimentos na linguagem.
 
-O projeto foi será desenvolvido em três versões, cada uma aplicando conceitos mais avançados de programação:
+O projeto será desenvolvido em três versões, cada uma aplicando conceitos mais avançados de programação:
 
 ## 🚀 Estrutura do Projeto
 
