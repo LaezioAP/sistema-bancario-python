@@ -7,7 +7,7 @@ O projeto será desenvolvido em três versões, cada uma aplicando conceitos mai
 ## 🚀 Estrutura do Projeto
 
 - 🔸 [`v1-procedural`](./v1-procedural) — Sistema Bancário simples, utilizando programação procedural (estrutura sequencial, sem funções).
-- 🔸 [`v2-funcoes`](./v2-funcoes) — Evolução do projeto com o uso de funções, tornando o código mais organizado e modularizado.
+- 🔸 [`v2-sistema-bancario`](./v2-sistema-bancario) — Evolução do projeto com o uso de funções, tornando o código mais organizado e modularizado.
 
 ---
 
